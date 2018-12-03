@@ -189,7 +189,7 @@ html.lb-disable-scrolling {
   float: right;
   width: 30px;
   height: 30px;
-  background: url(/JQuery/最終作業/img/lightbox/close.png) top right no-repeat;
+  background: url(https://hsiangfeng.github.io/JQuery/img/lightbox/close.png) top right no-repeat;
   text-align: right;
   outline: none;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
